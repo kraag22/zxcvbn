@@ -31,6 +31,7 @@ passed data dir, or vice-versa.
 DICTIONARIES = dict(
     us_tv_and_film    = 30000,
     english_wikipedia = 30000,
+    czech_syn_2010_lemma = 30000,
     passwords         = 30000,
     surnames          = 10000,
     male_names        = None,
